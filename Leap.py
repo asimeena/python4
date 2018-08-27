@@ -1,5 +1,5 @@
 year=2016
 if(year % 4)==0:
-	print("leap year")
+	print("yes")
 else:
-	print("not")
+	print("no")
